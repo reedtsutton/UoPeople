@@ -12,3 +12,5 @@ This course introduces the fundamental concepts necessary for designing, using a
 
 ### Programming 2 | CS 1103
 This course builds on the Introduction to Programming 1 course and teaches a more highly developed Java programming language with features beyond the basic concepts covered in the first programming course. A large part of the course will be devoted to more advanced building blocks such as recursion, linked data structures, and Java's Collection Framework. In addition to this, students learn about designing and coding complex, robust, and efficient programs, and are introduced to a professional programming tool: the Eclipse Integrated Development Environment.
+
+#### Completion of Online Java Tutorial @ https://www.learnjavaonline.org/
